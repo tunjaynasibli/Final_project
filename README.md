@@ -10,3 +10,5 @@ Having bookmakers odds, one of the other main goal is to find the most underrate
 
 Last but not least, I will try to make a model of predictions.
 
+For presentation:
+https://www.canva.com/design/DAE51JworTo/share/preview?token=iqPj1_jsqXlgqLnjy8DV5g&role=EDITOR&utm_content=DAE51JworTo&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
